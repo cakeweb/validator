@@ -1,6 +1,6 @@
 <?php
 
-namespace CakeWeb;
+namespace CakeWeb\Validator;
 
 interface ValidatorInterface
 {
