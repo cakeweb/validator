@@ -1,0 +1,19 @@
+{
+    "name": "cakeweb/validator",
+    "description": "Validador de dados",
+    "type": "git",
+    "authors": [
+        {
+            "name": "CakeWeb",
+            "email": "contato@cakeweb.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CakeWeb\\Validator\\": "src/"
+        }
+    }
+}
